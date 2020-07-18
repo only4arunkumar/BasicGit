@@ -7,3 +7,6 @@ This is test for lisa
 
 Lisa causing diverge
 Lisa  causing divergence 2
+
+
+Lisa to create a commit with error 
