@@ -9,4 +9,10 @@ Lisa causing diverge
 Lisa  causing divergence 2
 
 
-Lisa to create a commit with error 
+Lisa Removed the error from previous commit
+
+commit 6
+
+commit 7
+
+commit 8
